@@ -1,5 +1,5 @@
 # Handwritten_3_and_5_classification
-We use logistic regression for classifying handwritten digits '3' and '5'. Project completed as part of homework 4 of CSE 250A of UCSD, CSE, Fall 2022.
+We use logistic regression for classifying handwritten digits '3' and '5'. Project completed as part of homework 5 of CSE 250A of UCSD, CSE, Fall 2022.
 
 # Tasks: 
 For a detailed description of the model and tasks in this project, please refer to the file 'Problem and sample sol.pdf'. Briefly : 

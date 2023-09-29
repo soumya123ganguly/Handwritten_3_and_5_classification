@@ -12,7 +12,7 @@ For a detailed description of the model and tasks in this project, please refer 
 3. hw5_train3.txt: train data for digit '3'.
 4. hw5_train5.txt: train data for digit '5'.  
 5. Problem and sample sol.pdf: The detailed problem statement with each part/task is indicated and we also give a sample solution of the tasks stated. 
-6. code.ipynb: The code to solve the problem parts as given in 'Problem Statement.pdf'.
+6. code.ipynb: The code to solve the problem parts as given in 'Problem and sample sol.pdf'.
 
 # Execution :
 Execute code.ipynb notebook according to parts given in 'Problem Statement.pdf'. You may have to run the previous part's code before going to the next part.
